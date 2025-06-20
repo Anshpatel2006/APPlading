@@ -27,8 +27,7 @@ No build steps or dependencies are required—everything runs in the browser usi
 - `script.js` – Custom scripts for navbar and form validation
 
 ## Contact
-- Phone: 1234567890
-- Email: example@example.com
+- Email: anshpatel40206@gmail.com
 
 ---
 &copy; 2025 MyApp. All rights reserved. 
